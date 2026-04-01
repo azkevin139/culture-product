@@ -11,7 +11,7 @@ pub mod error;
 pub mod instructions;
 pub mod state;
 
-declare_id!("F56JTFUQa2Gao3fCtTZmUUkTdmVYypGmRp1kkYeJ4Da7");
+declare_id!("2cTEcEM1B5pkVFrqSFnUDowgbRvqc5uoagRBAQ1Uehh7");
 
 #[program]
 pub mod protocol_product {
