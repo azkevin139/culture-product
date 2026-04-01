@@ -11,6 +11,7 @@ Repository containing the Monaco Protocol Product program, used for creating and
 This program enables builders to store metadata about their products, such as commission rates and escrow account details, which will be used during market settlement on the Monaco Protocol.
 
 Currently only available in devnet (audit pending).
+> This repository is a Culture Markets fork derived from the Monaco Protocol `protocol-product` codebase and maintained under the Apache License 2.0 with required attribution preserved.
 
 # Where to find the program  🔍
 
