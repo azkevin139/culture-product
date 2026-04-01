@@ -1,3 +1,7 @@
+[toolchain]
+anchor_version = "0.29.0"
+solana_version = "1.17.30"
+
 [programs.localnet]
 protocol_product = "2cTEcEM1B5pkVFrqSFnUDowgbRvqc5uoagRBAQ1Uehh7"
 
